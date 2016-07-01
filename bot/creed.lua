@@ -236,7 +236,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {118682430},--Sudo users
+    sudo_users = {fr33app},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Creed bot 2.3
@@ -279,7 +279,7 @@ Set a group's rules
 
 !lock [GroupID] [setting]
 Lock a group's setting
-تنظیکات گروهی را قفل بکنید
+تنظیمات گروهی را قفل بکنید
 
 !unlock [GroupID] [setting]
 Unock a group's setting
